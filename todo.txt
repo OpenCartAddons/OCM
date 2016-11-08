@@ -1,0 +1,12 @@
+Fields Needing To Be Added To Settings
+
+Field Name									Description
+
+config_extension_versions					OpenCart Versions (comma separated)
+config_extension_license_types				License Types (comma separated)
+config_extension_license_periods			License Periods (comma separated)
+
+config_extension_name						Max Chars
+config_extension_price						Min Price
+config_extension_tag_count					Max Number Of Tags
+config_extension_tag_char					Max Number Of Chars Per Tag
